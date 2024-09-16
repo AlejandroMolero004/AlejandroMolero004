@@ -1,5 +1,5 @@
 # 💫 About Me:
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+<div style="display: flex; align-items: center;">
   <div style="flex: 1; margin-right: 20px;">
     Hello, I'm Alex, a Computer Engineering student at Nebrija University. <br>
     I have a strong passion for programming,<br>
