@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 # 💫 About Me:
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
