@@ -1,6 +1,6 @@
 # 💫 About Me:
 <div style="display: flex; align-items: center;">
-  <div style="flex: 1; margin-right: 40px;"> <!-- Ajusta el margen derecho aquí -->
+  <div style="flex: 1; margin-right: 300px;"> <!-- Ajusta el margen derecho aquí -->
     Hello, I'm Alex, a Computer Engineering student at Nebrija University. <br>
     I have a strong passion for programming,<br>
     always looking for new challenges to improve my skills and work on creative projects. <br>
