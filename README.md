@@ -7,9 +7,9 @@
     In my free time, I love diving into the world of video games, both as a player and as someone interested in game development. <br>
     My interest in technology and gaming often inspires me to explore the intersection of coding and interactive entertainment.
   </div>
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <img src="https://github.com/samadpls/Programing-Gifs/blob/main/static/gifs/new.gif?raw=true" alt="Nuevo GIF" width="200"/>
-</div>
+  <div style="flex-shrink: 0;">
+    <img src="https://github.com/samadpls/Programing-Gifs/blob/main/static/gifs/new.gif?raw=true" alt="Nuevo GIF" width="200" style="display: block; margin-left: auto; margin-right: auto;"/>
+  </div>
 </div>
 
 ## 🌐 Socials:
