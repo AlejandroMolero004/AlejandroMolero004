@@ -1,7 +1,7 @@
 # 💫 About Me:
 <table>
   <tr>
-    <td style="padding-right: 20px;">
+    <td style="padding-right: 20px; text-align: left;">
       Hello, I'm Alex, a Computer Engineering student at Nebrija University. <br>
       I have a strong passion for programming,<br>
       always looking for new challenges to improve my skills and work on creative projects. <br>
