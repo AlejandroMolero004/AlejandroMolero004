@@ -8,7 +8,9 @@
     My interest in technology and gaming often inspires me to explore the intersection of coding and interactive entertainment.
   </div>
   <div style="display: flex; align-items: center; flex-shrink: 0;">
-    <img src="https://github.com/samadpls/Programing-Gifs/blob/main/static/gifs/new.gif?raw=true" alt="Nuevo GIF" width="200"/>
+    <div>
+      <img src="https://github.com/samadpls/Programing-Gifs/blob/main/static/gifs/new.gif?raw=true" alt="Nuevo GIF" width="200"/>
+    <div>
   </div>
 </div>
 
