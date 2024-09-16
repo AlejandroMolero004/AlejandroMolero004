@@ -1,6 +1,6 @@
 # 💫 About Me:
 <div style="display: flex; align-items: center;">
-  <div style="flex: 1; margin-right: 20px;">
+  <div style="flex: 1; margin-right: 40px;"> <!-- Ajusta el margen derecho aquí -->
     Hello, I'm Alex, a Computer Engineering student at Nebrija University. <br>
     I have a strong passion for programming,<br>
     always looking for new challenges to improve my skills and work on creative projects. <br>
@@ -8,9 +8,10 @@
     My interest in technology and gaming often inspires me to explore the intersection of coding and interactive entertainment.
   </div>
   <div style="flex-shrink: 0;">
-    <img src="https://github.com/samadpls/Programing-Gifs/blob/main/static/gifs/new.gif?raw=true" alt="Nuevo GIF" width="200" style="display: block; margin-left: auto; margin-right: auto;"/>
+    <img src="https://github.com/samadpls/Programing-Gifs/blob/main/static/gifs/new.gif?raw=true" alt="Nuevo GIF" width="200" style="display: block;"/>
   </div>
 </div>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_moolero_) 
