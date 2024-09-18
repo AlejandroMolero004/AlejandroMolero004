@@ -35,4 +35,18 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AlejandroMolero004&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+<details><summary><h3> 📂 My Repositories </h3></summary>
+
+----
+
+<div>
+  <p align="center">
+    <a href="https://github.com/AlejandroMolero004/CONEXION-A-BASE-DE-DATOS">
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlejandroMolero004&repo=CONEXION-A-BASE-DE-DATOS
+&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+  </p>
+</div>
+</details>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
