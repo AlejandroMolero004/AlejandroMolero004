@@ -43,8 +43,10 @@
 <div>
   <p align="center">
     <a href="https://github.com/AlejandroMolero004/CONEXION-A-BASE-DE-DATOS">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlejandroMolero004&repo=CONEXION-A-BASE-DE-DATOS
-&theme=tokyonight" alt="Conexion Base de Datos" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlejandroMolero004&repo=CONEXION-A-BASE-DE-DATOS&theme=tokyonight" alt="Conexion Base de Datos" />
+    </a>
+    <a href="https://github.com/AlejandroMolero004/typescript">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlejandroMolero004&repo=typescript&theme=tokyonight" alt="typescript" />
     </a>
   </p>
 </div>
