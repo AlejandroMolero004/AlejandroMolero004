@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,Im+Alex;Computer+Engineering+student)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=8000&pause=1000&width=489&height=70&lines=Hi%2CIm+Alex+Computer+Engineering+student" alt="Typing SVG" /></a>
 
 # 💫 About Me:
 <table>
