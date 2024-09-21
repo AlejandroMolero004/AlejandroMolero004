@@ -1,4 +1,6 @@
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,Im+Alex;Computer+Engineering+student+at+Nebrija+University.)](https://git.io/typing-svg)
+
 # 💫 About Me:
 <table>
   <tr>
