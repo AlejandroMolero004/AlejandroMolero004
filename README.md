@@ -29,10 +29,12 @@
 
 # IDes:
 <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Logo" width="30" style="display: inline-block; margin-left: 50px;"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt Logo" width="30" style="display: inline-block;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt Logo" width="30" style="display: inline-block; margin-left: 50px;"/>
     <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" alt="IntelliJ Logo" width="30" style="display: inline-block; margin-left: 50px;"/>
+  
 </div>
+
+
 
 
 
