@@ -27,6 +27,19 @@
 # 💻 Lenguajes de Programación:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
+# IDes:
+<div>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Logo" width="30" style="display: inline-block; margin-left: 50px;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt Logo" width="30" style="display: inline-block;"/>
+    <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" alt="IntelliJ Logo" width="30" style="display: inline-block; margin-left: 50px;"/>
+</div>
+
+
+
+
+
+
+
 
 
 ### ✍️ Random Dev Quote
